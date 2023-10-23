@@ -1,7 +1,7 @@
 # Entry 1
-##### X/X/XX
+##### 10/23/23
 
-Text
+I've decided to work on Transportation/Travel because I had a passion for this specific field since my childhood. My backup topics include Restaurant and Fitness. I chose these topics as my backup because I also feel comfortable working with these fields. Well, choosing these specific topic also came with a lot of research. Before I even chose Transportation/Travel as my main topic, I researched the topic briefly. I looked over 
 
 [Next](entry02.md)
 
