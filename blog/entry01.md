@@ -6,7 +6,7 @@ I've decided to work on Transportation/Travel for the freedom project because I 
 
 ## Engineering Design Process
 
-I am currently at the first stage of EDP (defining a problem). The problem I wish to solve with my freedom project is *Raising the Awareness of the impact of Transportation*
+I am currently at the first stage of EDP (defining a problem). The problem I wish to solve with my freedom project is **Raising the Awareness of the impact of Transportation**
 
 [Next](entry02.md)
 
