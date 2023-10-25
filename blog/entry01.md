@@ -6,7 +6,7 @@ I've decided to work on Transportation/Travel for the freedom project because I 
 
 ## Engineering Design Process
 
-I am currently defining a problem in Transportation (first stage of EDP). The problem I wish to solve with my freedom project is **Raising the Awareness of the impact of Transportation**. After this, I have to research the problem thoroughly by looking at various informative websites, and communicating with other peers who will be working with me in this project. 
+I am currently defining a problem in Transportation (first stage of EDP). The problem I wish to solve with my freedom project is **raising the awareness of the impact of transportation**. After this, I have to research the problem thoroughly by looking at various informative websites, and communicating with other peers who will be working with me in this project. 
 
 ## Skills
 Some skills I learned while working on this blog include effective googling, time management, and working efficiently. 
