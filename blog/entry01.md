@@ -11,7 +11,11 @@ I am currently defining a problem in Transportation (first stage of EDP). The pr
 ## Skills
 Some skills I learned while working on this blog include effective googling, time management, and working efficiently. 
 
-### Effective Googling
+#### Effective Googling
+
+#### Time Management
+
+#### Working Efficiently
 
 [Next](entry02.md)
 
