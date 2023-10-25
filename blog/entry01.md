@@ -6,12 +6,12 @@ I've decided to work on Transportation/Travel for the Freedom Project because I 
 
 ## Engineering Design Process
 
-I am currently defining a problem in Transportation (the first stage of EDP). The problem I wish to solve with my Freedom Project is **raising the awareness of the impact of transportation**. After this, I have to research the problem thoroughly by looking at various informative websites and communicating with other peers who will be working with me on this project. 
+I am currently defining a problem in Transportation (the first stage of EDP). The problem I wish to solve with my Freedom Project is **raising awareness of safety during transportation**. After this, I have to research the problem thoroughly by looking at various informative websites and communicating with other peers who will be working with me on this project. 
 
 ## Skills
-One Skill I learned while working on this blog is effective googling. During this task, a lot of googling was required. In order to gather important information efficiently, I had to think of ways to get better search results. I added words like "technology, impact, everyday life, and change" in my searches. From this method, I was quickly able to gather the information I needed regarding transportation.
+One Skill I learned while working on this blog is Effective Googling. During this task, a lot of googling was required. In order to gather important information efficiently, I had to think of ways to get better search results. I added words like "technology, impact, everyday life, and change" in my searches. From this method, I was quickly able to gather the information I needed regarding transportation.
 
-Another Skill I learned was organization. A lot of organization was also required during this blog. Before choosing my main topic, I gathered many links to websites regarding my list of topics to see which field was the best for me. To know which link provided what information, I had to learn to organize the links into multiple sections. With organized links, it saved me time to access specific websites for my topic.  
+Another Skill I learned was Organization. A lot of organization was also required during this blog. Before choosing my main topic, I gathered many links to websites regarding my list of topics to see which field was the best for me. To know which link provided what information, I had to learn to organize the links into multiple sections. With organized links, it saved me time to access specific websites for my topic.  
 
 ## Summary
 I am excited to make a website that is focusing on Transportation/Travel. My inspiration started when I was a child. I was amazed to see all of the innovations in Transportation/Travel. 
