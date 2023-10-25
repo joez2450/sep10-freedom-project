@@ -11,10 +11,10 @@ I am currently defining a problem in Transportation (first stage of EDP). The pr
 ## Skills
 One Skill I learned while working on this blog is effective googling. During this task, a lot of googling was required. In order to gather important information efficiently, I had to think of ways to get better search results. I added words like "technology, impact, everyday life, and change" in my searches. From this method, I was quickly able to gather the information I needed regarding transportation.
 
-Another Skill I learned was organization. A lot of organization was also required during this blog. I gathered many links to websites regarding each topic. In order to know which link provided what information, I had to learn to organize the links into multiple sections. With this, it would save me time to access specific websites for my topic, and   
+Another Skill I learned was organization. A lot of organization was also required during this blog. Before choosing my main topic, I gathered many links to websites regarding my list of topics to see which field was the best for me. To know which link provided what information, I had to learn to organize the links into multiple sections. With organized links, it saved me time to access specific websites for my topic.  
 
 ## Summary
-I am excited to make a website focusing on Transportation/Travel. My inspirtation started when I was a child. I was amazed to see all of the innovations in Transportation/Travel. 
+I am excited to make a website that is focusing on Transportation/Travel. My inspirtation started when I was a child. I was amazed to see all of the innovations in Transportation/Travel. 
 
 [Next](entry02.md)
 
