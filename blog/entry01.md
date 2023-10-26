@@ -6,7 +6,7 @@ I've decided to work on Transportation/Travel for the Freedom Project because I 
 
 ## Engineering Design Process
 
-As of now, I am defining a problem in transportation (the first stage of EDP). The problem I wish to solve with my Freedom Project is **improving the safety of transportation**. After this, I have to research the problem thoroughly by looking at various informative websites and communicating with other peers who will be working with me on this project. 
+As of now, I am defining a problem in transportation (the first stage of EDP). The problem I wish to solve with my Freedom Project is **improving the safety of transportation**. With this in mind, I have to research the problem thoroughly by looking at various informative websites and communicating with other peers who will be working with me on this project. 
 
 ## Skills
 One skill I learned while working on this blog is Effective Googling. During this task, a lot of googling was required. To gather important information efficiently, I had to think of ways to get better search results. I added words like "technology, impact, everyday life, and change" in my searches. From this method, I was quickly able to gather the information I needed regarding transportation.
