@@ -16,7 +16,7 @@ Another skill I learned is Organization. A lot of organization was also required
 The third skill I learned is Time Management. When I was first researching and thinking about which topics to choose, I spent too much time analyzing multiple topics. Instead, I focused on one topic at a time, and there, I would find the information that I needed to choose each topic. This strategy also saved me time because I was able to progress rather than being stuck in one single place for a long time. 
 
 ## Summary
-I am excited to make a website that is focusing on Transportation/Travel. My inspiration started when I was a child. I was amazed to see all of the innovations in Transportation/Travel. 
+I am excited to make a website that is focusing on Transportation/Travel. My passion for this field started when I was a child. I was amazed to see all of the innovations in Transportation/Travel. 
 
 [Next](entry02.md)
 
