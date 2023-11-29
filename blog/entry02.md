@@ -2,7 +2,7 @@
 ##### 11/27/23
 
 #### Researching Software & Hardware
-During week 7 and 8 of the Freedom Project, I started to research technologies that are correlated with my topic, Travel. 
+After choosing my topic, Transportation/Travel for the Freedom Project, I started to research technologies that were correlated with my field. I began looking for software first, and I typed in the google searchbar, "Transportation and Travel software gadgets". The first result that caught my eye was 
 
 
 
