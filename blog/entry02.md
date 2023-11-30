@@ -13,6 +13,8 @@ I am currently on the second stage of the EDP, to conduct research about my topi
 
 #### Skills
 ##### Skimming
+Over the course of researching about travel softwares and hardwares, I learned the skill of skimming. Whenever I searched something up, there were millions of results. To find the best source effectively, I skimmed through multiple websites until one of them was informative and helpful. Through this method, I was able to conduct my research both effectively and quickly. 
+
 ##### Effective Researching
 ##### Time Management
 
