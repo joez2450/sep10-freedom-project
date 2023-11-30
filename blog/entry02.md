@@ -1,23 +1,23 @@
 # Entry 2
 ##### 11/27/23
 
-#### Researching 
-##### Software
+### Researching 
+#### Software
 After choosing my topic, Transportation/Travel for the Freedom Project, I started to research software and hardware technologies that were correlated with my field. I started looking for software technologies first, typing "Transportation and Travel software" into the Google Search bar. The first website that caught my attention was ["G2.com"](https://www.g2.com/categories/travel-management). On the website, there were many Travel Management software apps that were ranked and rated based on their features and aspects. I looked over most of the apps, and I was impressed by various software. The first software app that impressed me was [Navan](https://navan.com/). The Navan app struck me because it is accessible to all platforms, supports a variety of languages, and has features that include the calculations of desired trip costs, costs at destination places, and a database of one's history of spending on transportation. The second software app that impressed me was [TravelPerk](https://www.travelperk.com/). In the TravelPerk app, there were travel alerts (provide warning of specific travel conditions, i.e weather, crime alert, etc), a section for check-in information for trips (subways, airport, etc), 24/7 customer support with real agents, and there is a section for flexible trip sections. The third software app that impressed me was [SAP Concur](https://www.concur.com/). With the SAP Concur app, there was a budget system, which helps with decision-making for trips, a reporting system, and easy-to-create plans. 
 
-##### Hardware
+#### Hardware
 Upon researching the software technologies that were correlated with Transportation/Travel, I also researched hardware technologies. I began off by typing "Transportation and Travel Hardware Technology" in Google. As I looked through the results of my search, I stumbled across [PCWorld](https://www.pcworld.com/article/2000726/travel-gadgets-need-next-trip-or-vacation.html) On the website, I saw many hardware technologies that were useful for Travel. I looked through all of the hardware, and similar to my software research, there were hardware technologies that also impressed me. The first hardware technology that impressed me was the [CrazyCap Self-Cleaning Water Bottle](https://www.amazon.com/CrazyCap-Pro-Award-Winning-Self-Cleaning-Insulated/dp/B0B4BSYSPZ/?tag=pcworld02-20&asc_refurl=https%3A%2F%2Fwww.pcworld.com%2Farticle%2F2000726%2Ftravel-gadgets-need-next-trip-or-vacation.html&th=1). The CrazyCap Self-Cleaning Water Bottle gained my attention because it was the first self-cleaning bottle I saw. The bottle itself can self-purify water in a short amount of time, has a self-cleaning feature, which allows the bottle to be stink-free, provides a double wall vacuum feature that keeps your drink cold or hot for a long period, and includes a built-in hydration reminder that keeps you from being dehydrated. The second hardware technology that impressed me was [Solis Lite Portable Mobile Hotspot](https://www.amazon.com/Hotspot-Coverage-Connected-Devices-Technology/dp/B08YKB6VMN/?tag=pcworld02-20&asc_refurl=https://www.pcworld.com/article/2000726/travel-gadgets-need-next-trip-or-vacation.html). The Solis Lite Portable Mobile Hotspot also caught my attention because it was the first portable WiFi that I saw. The portable hotspot can provide reliable WiFi in over 135 countries, allows 10 people to connect to a single WiFi, and is guaranteed to work for 16 hours without charging. The third hardware technology that impressed me was [Rolling Square inCharge 6 Portable Charger Cable](https://www.amazon.com/inCharge-Six-One-Portable-Compatible/dp/B086WHBN3N/?tag=pcworld02-20&asc_refurl=https://www.pcworld.com/article/2000726/travel-gadgets-need-next-trip-or-vacation.html). This hardware technology is such a small size, yet it provides a big function. The charger itself can charge any device (iPhone, Computer, etc), is made out of durable materials, and charge multiple devices at once. 
 
-#### Engineering Design Process
+### Engineering Design Process
 I am currently on the second stage of the EDP, to conduct research about my topic. I have already researched about the Softwares and Hardwares that are connected with my topic. However, I still need to conduct the factors that are correlated with my issue. 
 
-#### Skills
-##### Skimming
+### Skills
+#### Skimming
 Over the course of researching about Travel softwares and hardwares, I learned the skill of skimming. Whenever I searched something up, there were millions of results that appeared. Obviously, there were a lot of options to choose from, however I cannot look through all of them at once. To find the best source effectively, I skimmed through multiple websites until I found one that was both informative and helpful for my work. Through this method, I was able to conduct my research both effectively and quickly. 
 
-##### Effective Researching
+#### Effective Researching
 I also learned the skill of Effective Researching throughout my research on Travel softwares and hardwares. Sometimes I would not find my desired outcomes, whenever I searched up statements like "Travel softwares" and "Travel Hardwares. As a solution, I added "gadgets, technology, inventions, and tools" in my Google searches. I also added Transportation with Travel into my searchbar, so there are more results in my field. With this strategy, I was able to find more results and some of them were very helpful to me.
-##### Time Management
+#### Time Management
 Time Management was a important skill I learned throughout the entire blog. 
 [Previous](entry01.md) | [Next](entry03.md)
 
