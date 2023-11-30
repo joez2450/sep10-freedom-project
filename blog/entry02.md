@@ -12,7 +12,9 @@ Upon researching the software technologies that were correlated with Transportat
 I am currently on the second stage of the EDP: to conduct research about topic.
 
 #### Skills
-
+### Skimming
+### Effective Researching
+### Time Management
 
 [Previous](entry01.md) | [Next](entry03.md)
 
