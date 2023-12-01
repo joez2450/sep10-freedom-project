@@ -2,7 +2,7 @@
 ##### 11/27/23
 
 ### Update
-After choosing my topic, Transportation/Travel for the Freedom Project in Blog 1, I started to research and went through a process to find software and hardware technologies that were correlated with my field.
+After choosing my topic, Transportation/Travel for the Freedom Project in Blog 1, I started to go through a researching process to find software and hardware technologies that were correlated with my field.
 
 ### Researching
 #### Software
