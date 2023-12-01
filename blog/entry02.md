@@ -1,8 +1,10 @@
 # Entry 2
 ##### 11/27/23
 
-### Update/Researching
+### Update
 After choosing my topic, Transportation/Travel for the Freedom Project in Blog 1, I started to research software and hardware technologies that were correlated with my field.
+
+### Researching
 #### Software
 I started looking for software technologies first, typing "Transportation and Travel software" into the Google Search bar. The first website that caught my attention was [G2](https://www.g2.com/categories/travel-management). On the [G2](https://www.g2.com/categories/travel-management) website, there were many Travel Management software apps that were ranked and rated based on their features and aspects. I looked over most of the apps, and I was impressed by various software. The first software app that impressed me was [Navan](https://navan.com/). The Navan app struck me because it is accessible to all platforms, supports a variety of languages, and has features that include the calculations of desired trip costs and prices at destination places, and a database of one's history of spending on transportation. The second software app that impressed me was [TravelPerk](https://www.travelperk.com/). In the TravelPerk app, there were travel alerts (provide warning of specific travel conditions, i.e weather, crime alert, etc), a section for check-in information for trips (subways, airport, etc), 24/7 customer support with real agents, and there is a section for flexible trip sections. The third software app that impressed me was [SAP Concur](https://www.concur.com/). With the SAP Concur app, there was a budget system, which helps with decision-making for trips, a reporting system, and easy-to-create plans. 
 
