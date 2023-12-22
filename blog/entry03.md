@@ -28,7 +28,7 @@ Organization was the skill that most arguably played a role during my transition
 Social Interaction was also an important skill that I both learned and incorporated during my shift in stages in the project. When I completed Part A and moved into Part B of the Freedom Project, I was required to generate possible solutions regarding my topic and focus. However, since I was also working as a pair, I was mandated to connect with my partner, Jimmy. Throughout most of the brainstorming process, communication was constantly being spread between my partner and me. From this, not only my interaction but also my connection skills vividly improved.
 
 #### Skill #3: Creativity
-Out of all the other skills, creativity was the most important that I took in and used during the stage of the project. Generating the inventions was no easy task, it required creative thinking. My partner and I were required to think outside the box, while also being open-minded about the impacts our inventions would bring. With all of the ideas we generated, our skills also ultimately grew with us.
+Out of all the other skills, creativity was the most important that I took in and used during the stage of the project. As we were in the process of tinkering with new inventions, we were struggling. Generating the inventions was no easy task, it required creative thinking. My partner and I needed to think outside the box, while also being open-minded about the impacts our inventions would bring to the world. With all of the ideas we generated throughout time, not only did our creativity skills grew, but also our overall thinking (process, etc) as well.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
