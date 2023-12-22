@@ -21,7 +21,7 @@ Currently, I am still in the third stage of the Engineering Design Process: **Br
 While brainstorming new solutions for my Freedom Project, I learned and incorporated three major skills that were important to me: Social Interaction, Organization, and Creativity.
 
 #### Skill #1: Organization
-Organization was the skill that most arguably played a role during my transitions in the Freedom Project. When I first reached Part A, there was much travel software and hardware information that was spread out and unorganized in my notes. In addition, my notes were also messy, as many links were unnamed. It was clear that arranging files was an important task. So, I went through a stage of organization. Upon the sorting and organization I completed, my partner and I were both able to find the most useful sources, thus benefitting us as we reached Part B.
+Organization was the skill that most arguably played a big role during my transitions in the Freedom Project. When I first reached Part A, there was much travel software and hardware information that was spread out and unorganized in my notes. In addition, my notes were also messy, as many links were unnamed. It was clear that arranging files was an important task. So, I went through a stage of organization. Upon the sorting and organization I completed, my partner and I were both able to find the most useful sources, thus benefitting us as we reached Part B.
 
 
 #### Skill #2: Social Interaction
