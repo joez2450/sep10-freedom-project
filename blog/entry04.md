@@ -9,7 +9,7 @@ In the past few weeks, I spent time finishing Parts A and B of the Freedom Proje
 
 Reaching the tool selection portion of the Freedom Project, I made a list of the desirable ones I wanted to use. As for choosing a specific tool to find out which one was the best fit for me, I had to tinker along with them. The top three tools I chose were: A-Frame, Skeleton, and SASS.
 
-To begin with my selection process, I started tinkering with [SASS]() first. For the tool, I used a [coding playground](https://www.codingame.com/playgrounds/166/sass) to play around and gain a better knowledge of it. The page included to-be-completed assignments with instructions provided, as well as the option to create your examples given the code boxes.
+To begin with my selection process, I started tinkering with [SASS](https://sass-lang.com/) first. For the tool, I used a [coding playground](https://www.codingame.com/playgrounds/166/sass) to play around and gain a better knowledge of it. The page included to-be-completed assignments with instructions provided, as well as the option to create your examples given the code boxes.
 
 For my part, I mainly focused on the assignments first before committing to go deeper into the learning process. This was because I wanted to get a reaction prior, as I was still unfamiliar with the tool. I began by reading all of the instructions for each task. I also reviewed the syntax of the custom codes and tried to see how it functioned. After a while, I managed to complete all of the tasks by switching back and forth between the details provided for each concept and working in the coding box. Here is one assignment (Variable Topic) I completed:
 
@@ -45,11 +45,11 @@ $height: 50px;
 
 The assignment above required me to make the first two paragraphs equal to `50px` in terms of height. I was given information about the concept behind variables, specifically as in the syntax `$name: value;`. To do this task, I created a new variable, `$height` and defined it with `50px`. After that, I checked the HTML portion of the files and found that the two paragraphs are assigned the classes `p-border` and `p-background`, so I went back to CSS and inserted height to both of them, defining the variable in the process. I executed the task, and it was completed.
 
- My experiment with the SASS assignments left me with a mixed feeling about the tool. **I wasn't particularly that interested** when learning the resource as I was tinkering, so I didn't dive any deeper. This thought helped shape my list, as I knew SASS wasn't going to be the top choice for me.
+ My experiment with the [SASS](https://sass-lang.com/) assignments left me with a mixed feeling about the tool. **I wasn't particularly that interested** when learning the resource as I was tinkering, so I didn't dive any deeper. This thought helped shape my list, as I knew SASS wasn't going to be the top choice for me.
 
-Moving forward with the decision, the next tool I tested out was [Skeleton](http://getskeleton.com/). Beginning with my [Skeleton](http://getskeleton.com/) tinkering process, I looked closely at the webpage provided by the developers. This time when I observed over the tool page, however, I noticed that there wasn't a side-by-side playground for a tutorial. Skeleton only lists its CSS elements in brief detail and a download button on its page.
+Moving forward with the decision, the next tool I tested out was [Skeleton](http://getskeleton.com/). Beginning with my [Skeleton](http://getskeleton.com/) tinkering process, I looked closely at the webpage provided by the developers. This time when I observed over the tool page, however, I noticed that there wasn't a side-by-side playground for a tutorial. [Skeleton](http://getskeleton.com/) only lists its CSS elements in brief detail and a download button on its page.
 
-For an ideal beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, as I specifically grabbed key information occasionally. While listening to the video and constantly learning, I was able to implement my twists and create an about me page with Skeleton on CS50. Here is a visual:
+For an ideal beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, occasionally grabbing information that were important. While listening to the video and constantly learning, I was able to implement my twists and create an about me page with Skeleton on CS50. Here is a visual:
 
 ![Untitled drawing (3)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/2adcd319-d413-4eb4-9643-7a8c12ee709b)
 
