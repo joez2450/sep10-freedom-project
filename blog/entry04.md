@@ -49,7 +49,7 @@ The assignment above required me to make the first two paragraphs equal to `50px
 
 Moving forward with the decision, the next tool I tested out was [Skeleton](http://getskeleton.com/). Beginning with my [Skeleton](http://getskeleton.com/) tinkering process, I looked closely at the webpage provided by the developers. This time when I observed over the tool page, however, I noticed that there wasn't a side-by-side playground for a tutorial. [Skeleton](http://getskeleton.com/) only lists its CSS elements in brief detail and a download button on its page.
 
-For an ideal beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, occasionally grabbing information that were important. While listening to the video and constantly learning, I was gradually able to implement my twists and create an about me page with Skeleton on CS50. Here is a visual:
+For an ideal beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, occasionally grabbing information that were important. While listening to the video and constantly learning, I was gradually able to use some of the topics mentioned and implement my twists and create an about me page with Skeleton on CS50. Here is a visual:
 
 ![Untitled drawing (3)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/2adcd319-d413-4eb4-9643-7a8c12ee709b)
 
@@ -59,9 +59,9 @@ In the page I created, I first created a repository and inputted the CDN for Ske
 
 In my experience with Skeleton, **I was more satisfied with the tool compared to SASS**. However, **I will not be using it for my Freedom Project as it is relatively similar to BootStrap** - another tool dedicated to web design which I will use already, with the features only being a miniature version.
 
-[A-Frame](https://aframe.io/) was the last tool to be tested. For [A-Frame](https://aframe.io/), I first checked their webpage for additional information, similar to my approach for [Skeleton](http://getskeleton.com/). The page included documentation and a tutorial for beginners. The tool also had multiple alternatives to be inputted through its CDN, one being Jsbin. My initial reaction to the tool was off to a positive start, as the basic information was brief.
+[A-Frame](https://aframe.io/) was the last tool to be tested. For [A-Frame](https://aframe.io/), I first checked their webpage for additional information, similar to my approach for [Skeleton](http://getskeleton.com/). The page included documentation and a tutorial for beginners. The tool also had multiple alternatives to be inputted through its script, one being Jsbin. My initial reaction to the tool was off to a positive start, as the basic information was brief.
 
-On my end, to start with my [A-Frame](https://aframe.io/) tinkering, I set up my workplace in my CS50 IDE, creating a new HTML in my `tool-practice` repository and importing the CDN link. My next step involved carefully reading the Introduction portion of the website, subsequently looking at the "Building a Basic Scene". As I continued to take in the large amount of provided information, I started to gain more knowledge of the custom elements of [A-Frame](https://aframe.io/). Eventually, I was able to create simple examples that I desired. Here is one example I created:
+On my end, to start with my [A-Frame](https://aframe.io/) tinkering, I set up my workplace in my CS50 IDE, creating a new HTML in my `tool-practice` repository and importing the CDN link through the `script` tag. My next step involved carefully reading the Introduction portion of the website, subsequently looking at the "Building a Basic Scene". As I continued to take in the large amount of provided information, I started to gain more knowledge of the custom elements of [A-Frame](https://aframe.io/). Eventually, I was able to create simple examples that I desired. Here is one example I created:
 
 ![Untitled drawing (2)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/9182dab7-585f-4f49-8f18-99634c77438c)
 
