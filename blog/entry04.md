@@ -53,8 +53,9 @@ Moving forward with the decision, the next tool I tested out was [Skeleton](http
 
 For a beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, occasionally grabbing information that were important. While listening to the video and constantly engaged, I was gradually able to use some of the topics mentioned and implement my twists and create an about me page with [Skeleton](http://getskeleton.com/) on CS50. Here is a visual:
 
-![Untitled drawing (13)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/8b0467df-01bd-46a7-a505-68c93c33b682)
+![Untitled drawing (15)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/25c8499c-84ea-4314-a90b-89f44588e2d3)
 
+![Untitled drawing (16)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/727c4378-1376-4394-8ea5-d3dbdcdfa2c7)
 
 In the page I created, I first created a repository and inputted the CDN for Skeleton in my HTML file, then used a variety of `divs` to create a container and rows. After that, I added an `h3` element with the text "About Me" into the second `div` element, holding the class "row nav". I later included a "row" class into the third `div` and subsequently added two more `div` with the class "six columns" to make separate columns that each take up half of the space in the container. Afterward, I created a `p`, `ul`, and `li` elements, and typed in my basic information. Once that was done, I created a form using the `form`,   `label`, `option`, and `button` elements. I included the placeholder text in the form and also went to the CSS file and added `padding` along with `font-size` to specific elements so I could adjust the positioning and size of them. During the process, I constantly used `http-server` to see my changes. For the final step, I added a `@media` query, so that when a smaller device views the page, everything will be responsive.
 
