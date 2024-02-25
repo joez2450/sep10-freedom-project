@@ -1,9 +1,9 @@
 # Entry 4
 ##### 2/13/24
 
-### Context
+### Update/Context
 
-In the past few weeks, I spent time finishing Parts A and B of the Freedom Project. Eventually, I reached a new stage - to choose a tool that I would include in my future webpage.
+In the past few weeks, I spent time finishing Parts A and B of the Freedom Project. Eventually, I reached a new stage - to choose a tool that I would include in my future webpage - where I would conduct more research.
 
 ### Choosing A Tool
 
@@ -49,12 +49,11 @@ The assignment above required me to make the first two paragraphs equal to `50px
 
 My overall experiment with the [SASS](https://sass-lang.com/) assignments left me with a mixed feeling about the tool. **I wasn't particularly that interested** when learning the resource as I was tinkering, so I didn't dive any deeper. This thought helped shape my list, as I knew SASS wasn't going to be the top choice for me.
 
-Moving forward with the decision, the next tool I tested out was [Skeleton](http://getskeleton.com/). Beginning with my [Skeleton](http://getskeleton.com/) tinkering process, I looked closely at the webpage provided by the developers. This time when I observed over the tool page, however, I noticed that there wasn't a side-by-side playground for a tutorial. [Skeleton](http://getskeleton.com/) only lists its CSS elements in brief detail and a download button on its page.
+Moving forward with the decision, the next tool I tested out was [Skeleton](http://getskeleton.com/). Beginning with my [Skeleton](http://getskeleton.com/) tinkering process, I looked closely at the webpage provided by the developers. This time when I observed over the tool page, however, I noticed that there wasn't a side-by-side playground for a tutorial. [Skeleton](http://getskeleton.com/) only list its CSS elements in brief detail and a download button on its page.
 
 For a beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, occasionally grabbing information that were important. While listening to the video and constantly learning, I was gradually able to use some of the topics mentioned and implement my twists and create an about me page with Skeleton on CS50. Here is a visual:
 
-![Untitled drawing (3)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/2adcd319-d413-4eb4-9643-7a8c12ee709b)
-
+![Untitled drawing (6)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/3757f136-68fc-4040-8261-a16b998e5f91)
 
 In the page I created, I first created a repository and inputted the CDN for Skeleton in my HTML file, then used a variety of `divs` to create a container and rows. After that, I added an `h3` element with the text "About Me" into the second `div` element, holding the class "row nav". I later included a "row" class into the third `div` and subsequently added two more `div` with the class "six columns" to make separate columns that each take up half of the space in the container. Afterward, I created a `p`, `ul`, and `li` elements, and typed in my basic information. Once that was done, I created a form using the `form`,   `label`, `option`, and `button` elements. I included the placeholder text in the form and also went to the CSS file and added `padding` along with `font-size` to specific elements so I could adjust the positioning and size of them. During the process, I constantly used `http-server` to see my changes. For the final step, I added a `@media` query, so that when a smaller device views the page, everything will be responsive.
 
@@ -65,12 +64,12 @@ In my experience with Skeleton, **I was more satisfied with the tool compared to
 
 On my end, to start with my [A-Frame](https://aframe.io/) tinkering, I set up my workplace in my CS50 IDE, creating a new HTML in my `tool-practice` repository and importing the CDN link through the `script` tag. My next step involved carefully reading the Introduction portion of the website, subsequently looking at the "Building a Basic Scene". As I continued to take in the large amount of provided information, I started to gain more knowledge of the custom elements of [A-Frame](https://aframe.io/). Eventually, I was able to create simple examples that I desired. Here is one example I created:
 
-![Untitled drawing (2)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/9182dab7-585f-4f49-8f18-99634c77438c)
+![Untitled drawing (5)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/9ef23a9b-2637-49ec-9684-677a276b312d)
 
-For my example, I wanted a square with a space in the middle that is surrounded by a forest environment with a template text beside it. To begin coding, I first used the `<a-box>` element repeatedly and created eight boxes. I gave each `<a-box>` element a style class of different colors to make all of the box's appearance different. The positioning section was relatively difficult. I didn't understand the concept behind positioning, however, I returned to the "Build a Basic Scene" section of the A-Frame website and reviewed it eventually learning that `x = extends right`, `y = extends up`, and `z = extends forward`. I began trial and error and got the positioning correct after some time. I then used the `<a-entity>` element and included the environment class of forest and dressing amount of one hundred to display a large number of trees. In the end, I used the `<a-text>` element to put a template message beside my creation.
+For my example, I wanted a square with a space in the middle that is surrounded by a forest environment with a template text beside it. To begin coding, I first used the `<a-box>` element repeatedly and created eight boxes. I gave each `<a-box>` element a style class of different colors to make all of the box's appearance different. The positioning section was relatively difficult. I didn't understand the concept behind positioning, however, I returned to the "Build a Basic Scene" section of the A-Frame website and reviewed it eventually learning that `x = extends right`, `y = extends up`, and `z = extends forward`. I began trial and error and got the positioning correct after some time. I then used the `<a-entity>` element and included the environment class of forest and dressing amount of one hundred to display a large number of trees. In the end, I used the `<a-text>` element to put a template message beside my creation, additionally using `<a-camera>` to adjust the frame view.
 
 
-My experience with [A-Frame](https://aframe.io/) was ecstatic. The tool was pleasant to use and some of the challenges I faced were fun to solve along my way of tinkering. As for my tool selection, **I will be using A-Frame**.
+My experience with [A-Frame](https://aframe.io/) was delightful. The tool was pleasant to use and some of the challenges I faced were fun to solve along my way of tinkering. As for my tool selection, **I will be using A-Frame**.
 
 ### Skills
 My process for choosing a specific tool to use for my Freedom Project helped me learn new skills while also enhancing my previous ones. These include:
