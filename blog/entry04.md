@@ -16,6 +16,8 @@ For my part, I mainly focused on the assignments first before committing to go d
 Here is one assignment (Variable Topic) I completed:
 
 ``` CSS & HTML
+CSS
+
 // Define variables
 $height: 50px;
 
@@ -56,6 +58,9 @@ For a beginner's lesson on the tool, I followed a [Pythonology video](https://ww
 ![Untitled drawing (17)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/e19e23e0-0e57-4270-8948-511637ba9a3c)
 
 ``` CSS & HTML
+
+HTML
+
 <!DOCTYPE html>
 <html>
     <head>
