@@ -53,7 +53,7 @@ My overall experiment with the SASS assignments left me with a mixed feeling abo
 
 Moving forward with the decision, the next tool I tested out was [Skeleton](http://getskeleton.com/). Beginning with my Skeleton tinkering process, I looked closely at the webpage provided by the developers. This time when I observed over the tool page, however, I noticed that there wasn't a side-by-side playground for a tutorial. Skeleton only lists its CSS elements in brief detail and a download button on its page.
 
-For a beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, occasionally grabbing information that was important. While listening to the video and constantly engaged, I was gradually able to use some of the topics mentioned and implement my twists of creating an about me page with Skeleton on CS50. Here is a visual:
+For a beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, occasionally grabbing important information. While listening to the video and constantly engaged, I was gradually able to use some of the topics mentioned and implement my twists of creating an about me page with Skeleton on CS50. Here is a visual:
 
 ![Untitled drawing (17)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/e19e23e0-0e57-4270-8948-511637ba9a3c)
 
