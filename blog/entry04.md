@@ -3,7 +3,7 @@
 
 ### Update/Context
 
-In the past few weeks, I spent time finishing Parts A and B of the Freedom Project. Eventually, I reached a new stage - to choose a tool that I would include in my future webpage - where I would conduct more research.
+In the past few weeks, I spent time finishing Parts A and B of the Freedom Project. Eventually, I reached a new stage - to choose a tool that I would include in my future webpage - where I conducted more research.
 
 ### Choosing A Tool
 
