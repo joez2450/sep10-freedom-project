@@ -9,7 +9,7 @@ Tool: **A-Frame**
 Goal: To gain a better understanding of the basic A-Frame concepts
 
 Steps:
-* I followed an [A-Frame tutorial playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for roughly 25 minutes
+* I watched a [A-Frame tutorial playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for roughly 25 minutes
 * A-Frame Installation
     * Import link through `script` tag in HTML skeleton structure on CS50 IDE
     ```HTML
@@ -31,7 +31,7 @@ Steps:
     <a-cylinder color="orange" position="8 -1 0" scale="1.5 2 2"></a-cylinder>
   </a-scene>
 ```
-* Positioning was relatively difficult for me. I specifically didn't understand the function of the z-value. To find out my misconception, I executed trial and errors processes in my IDE, along with looking at a visual diagram. Eventually, I learned that the z-value mainly applies to the viewer's perspective of "back and forth".
+* Positioning was relatively difficult for me. I specifically didn't understand the function of the z-value. To find out my misconception, I executed trial and error processes in my IDE, along with looking at a visual diagram. Eventually, I learned that the z-value mainly applies to the viewer's perspective of "back and forth".
 
 * I additionally learned the `<a-sky>` and `<a-entity>` element and used it in my example:
 ```HTML
@@ -41,7 +41,7 @@ Steps:
 * `<a-entity>` is for background use and `<a-sky>`
 is generally utilized for the change of atmosphere in the VR experience
 
-NOTE: `<a-entity>` overides `<a-sky>` - for example, when both tags are used within `a-scene` only one result between the two will show up.
+NOTE: `<a-entity>` overrides `<a-sky>` - for example, when both tags are used within `a-scene` only one result between the two will show up.
 
 
 **Goal for next time:** Learn more attributes for tags
