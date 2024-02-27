@@ -3,7 +3,7 @@
 
 ### Update/Context
 
-In the past few weeks, I spent time finishing Parts A and B of the Freedom Project. Eventually, I reached a new stage - to choose a tool that I would include in my future webpage - where I would conduct more research.
+In the past few weeks, I spent time finishing Parts A and B of the Freedom Project. Eventually, I reached a new stage - to choose a tool that I would include in my future webpage - where I conducted more research.
 
 ### Choosing A Tool
 
@@ -47,13 +47,13 @@ $height: 50px;
 }
 ```
 
-The assignment above required me to make the first two paragraphs equal to `50px` in terms of height. I was given information about the concept behind variables, specifically as in the syntax `$name: value;`. To do this task, I created a new variable, `$height` and defined it with `50px`. After that, I checked the HTML portion of the files and found that the two paragraphs are assigned the classes `p-border` and `p-background`, so I went back to CSS and inserted height to both of them, defining the variable in the process. I executed the task, and it was completed.
+The assignment above required me to make the first two paragraphs equal to `50px` in terms of height. I was given information about the concept behind variables, specifically as in the syntax `$name: value;`. To do this task, I created a new variable, `$height`, and defined it with `50px`. After that, I checked the HTML portion of the files and found that the two paragraphs are assigned the classes `p-border` and `p-background`, so I went back to CSS and inserted height to both of them, defining the variable in the process. I executed the task, and it was completed.
 
 My overall experiment with the SASS assignments left me with a mixed feeling about the tool. **I wasn't particularly that interested** when learning the resource as I was tinkering, so I didn't dive any deeper. This thought helped shape my list, as I knew SASS wasn't going to be the top choice for me.
 
-Moving forward with the decision, the next tool I tested out was [Skeleton](http://getskeleton.com/). Beginning with my Skeleton tinkering process, I looked closely at the webpage provided by the developers. This time when I observed over the tool page, however, I noticed that there wasn't a side-by-side playground for a tutorial. Skeleton only list its CSS elements in brief detail and a download button on its page.
+Moving forward with the decision, the next tool I tested out was [Skeleton](http://getskeleton.com/). Beginning with my Skeleton tinkering process, I looked closely at the webpage provided by the developers. This time when I observed over the tool page, however, I noticed that there wasn't a side-by-side playground for a tutorial. Skeleton only lists its CSS elements in brief detail and a download button on its page.
 
-For a beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, occasionally grabbing information that were important. While listening to the video and constantly engaged, I was gradually able to use some of the topics mentioned and implement my twists and create an about me page with Skeleton on CS50. Here is a visual:
+For a beginner's lesson on the tool, I followed a [Pythonology video](https://www.youtube.com/watch?v=v4UC9emY9KA). I used the video to my advantage, occasionally grabbing important information. While listening to the video and constantly engaged, I was gradually able to use some of the topics mentioned and implement my twists of creating an about me page with Skeleton on CS50. Here is a visual:
 
 ![Untitled drawing (17)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/e19e23e0-0e57-4270-8948-511637ba9a3c)
 
@@ -82,7 +82,7 @@ My process for choosing a specific tool to use for my Freedom Project helped me 
  During this stage of the Freedom Project, I had three tools that I wanted to use. However, I could only use one of the three tools, meaning I had to reduce the number that I had down to a single one. I was able to achieve a singular tool through a process of deep analysis - tinkering and finding every small aspect of each tool to see which one best fit me. The entire procedure enhanced my decision-making skills and also helped me learn how to analyze specific objects.
 
 #### Time Management
-Time management was a skill that I learned progressively throughout my process of choosing a permanent tool for the Freedom Project. At the very beginning of the stage, I had three tools to tinker with. There was an immense amount of testing to do. As a solution, I developed a method to gain an initial reaction to certain tools before deciding to continue. This allowed me to see which tools were more desirable for me and the ones that were not in a efficient time manner.
+Time management was a skill that I learned progressively throughout my process of choosing a permanent tool for the Freedom Project. At the very beginning of the stage, I had three tools to tinker with. There was an immense amount of testing to do. As a solution, I developed a method to gain an initial reaction to certain tools before deciding to continue. This allowed me to see which tools were more desirable for me and the ones that were not in an efficient time manner.
 
 
 
