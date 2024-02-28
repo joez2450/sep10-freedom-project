@@ -73,7 +73,7 @@ On my end, to start with my A-Frame tinkering, I set up my workplace in my CS50 
 For my example, I wanted a square with a space in the middle that is surrounded by a forest environment with a template text beside it. To begin coding, I first used the `<a-box>` element repeatedly and created eight boxes. I gave each `<a-box>` element a style class of different colors to make all of the box's appearance different. The positioning section was relatively difficult. I didn't understand the concept behind positioning, however, I returned to the "Build a Basic Scene" section of the A-Frame website and reviewed it eventually learning that `x = extends right`, `y = extends up`, and `z = extends forward`. I began trial and error and got the positioning correct after some time. I then used the `<a-entity>` element and included the environment class of forest and dressing amount of one hundred to display a large number of trees. In the end, I used the `<a-text>` element to put a template message beside my creation, additionally using `<a-camera>` to adjust the frame view.
 
 
-My experience with A-Frame was delightful. The tool was pleasant to use and some of the challenges I faced were fun to solve along my way of tinkering. As for my tool selection, **I will be using A-Frame**.
+My experience with A-Frame was delightful. The tool was unique and pleasant to use. The challenges I faced with the tool were also fun to solve along my way of tinkering. As for my tool selection, **I will be using A-Frame**.
 
 ### Skills
 My process for choosing a specific tool to use for my Freedom Project helped me learn new skills while also enhancing my previous ones. These include:
