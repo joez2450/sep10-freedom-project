@@ -57,7 +57,8 @@ For a beginner's lesson on the tool, I followed a [Pythonology video](https://ww
 
 ![Untitled drawing (17)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/e19e23e0-0e57-4270-8948-511637ba9a3c)
 
-![Untitled drawing (19)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/e00651e0-5364-4393-a1f6-99307985e47f)
+![Untitled drawing (20)](https://github.com/joez2450/sep10-freedom-project/assets/146861465/17a4f042-3dc7-4e7a-882f-e319c0c3e72b)
+
 In the page I created, I first created a repository and inputted the CDN for Skeleton in my HTML file, then used a variety of `divs` to create a container and rows. After that, I added an `h3` element with the text "About Me" into the second `div` element, holding the class "row nav". I later included a "row" class into the third `div` and subsequently added two more `div` with the class "six columns" to make separate columns that each take up half of the space in the container. Afterward, I created a `p`, `ul`, and `li` elements, and typed in my basic information. Once that was done, I created a form using the `form`,   `label`, `option`, and `button` elements. I included the placeholder text in the form and also went to the CSS file and added `padding` along with `font-size` to specific elements so I could adjust the positioning and size of them. During the process, I constantly used `http-server` to see my changes. For the final step, I added a `@media` query, so that when a smaller device views the page, everything will be responsive.
 
 
