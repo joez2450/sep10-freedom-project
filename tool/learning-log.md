@@ -4,7 +4,7 @@ Tool: **A-Frame**
 
 ---
 
-2/26/24: **A-Frame Day 1**
+2/26/24
 
 Goal: To gain a better understanding of the basic A-Frame concepts
 
@@ -46,7 +46,10 @@ NOTE: `<a-entity>` overrides `<a-sky>` - for example, when both tags are used wi
 
 **Goal for next time:** Learn more attributes for tags
 
-X/X/X:
+
+3/3/24
+
+<!--X/X/X:
 * Text
 
 
