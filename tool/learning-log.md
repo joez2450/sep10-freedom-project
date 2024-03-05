@@ -31,7 +31,9 @@ Steps:
     <a-cylinder color="orange" position="8 -1 0" scale="1.5 2 2"></a-cylinder>
   </a-scene>
 ```
-* Positioning was relatively difficult for me. I specifically didn't understand the function of the z-value. To find out my misconception, I executed trial and error processes in my IDE, along with looking at a visual diagram. Eventually, I learned that the z-value mainly applies to the viewer's perspective of "back and forth".
+* Positioning was relatively difficult for me. I specifically didn't understand the function of the z-value.
+
+    * To find out my misconception, I executed trial and error processes in my IDE, along with looking at a visual diagram. Eventually, I learned that the z-value mainly applies to the viewer's perspective of "back and forth".
 
 * I additionally learned the `<a-sky>` and `<a-entity>` element and used it in my example:
 ```HTML
@@ -41,13 +43,18 @@ Steps:
 * `<a-entity>` is for background use and `<a-sky>`
 is generally utilized for the change of atmosphere in the VR experience
 
-NOTE: `<a-entity>` overrides `<a-sky>` - for example, when both tags are used within `a-scene` only one result between the two will show up.
+NOTE: `<a-entity>` overrides `<a-sky>` - for example, when both tags are used within `a-scene`, only one result between the two will show up.
 
 
-**Goal for next time:** Learn more attributes for tags
+**Next time:** Learn more attributes for tags
 
 
-3/3/24
+3/3/24:
+
+Goal: To learn more about A-Frame tags and attributes
+* Continue to watch [A-Frame tutorial playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for 25 minutes
+*
+
 
 <!--X/X/X:
 * Text
@@ -60,3 +67,4 @@ NOTE: `<a-entity>` overrides `<a-sky>` - for example, when both tags are used wi
 * Questions you still have
 * What you're going to try next
 -->
+
