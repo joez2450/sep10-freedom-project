@@ -4,7 +4,7 @@ Tool: **A-Frame**
 
 ---
 
-2/26/24
+**2/26/24**
 
 Goal: To gain a better understanding of the basic A-Frame concepts
 
@@ -48,14 +48,59 @@ NOTE: `<a-entity>` overrides `<a-sky>` - for example, when both tags are used wi
 
 **Next time:** Learn more attributes for tags
 
+----------------------------------------------------------------------------
 
-3/3/24:
+**3/3/24**
 
-Goal: To learn more about A-Frame tags and attributes
-* Continue to watch [A-Frame tutorial playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for 25 minutes
-*
+Goal: To learn more about A-Frame attributes and general concepts
+* Continue to watch [A-Frame tutorial playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for 15 minutes
+* Adding a green platform (ground component) to my existing A-Frame scene
 
+   ```HTML
+   <a-plane material="color: #53C532" scale="10 10 1" rotation="-90 0 0"></a-plane>
+   ```
 
+     * The attribute `material` allows you to specify a primitive's look (color, texture, etc)
+
+NOTE: Any rotation on primitives directly affects the direction in which the scale - X, Y, Z - value faces
+
+ * The example I created has a rotation of `"-90 0 0"`
+
+   * Only the x-axis is rotated by -90 degrees, so as a result:
+
+      * Scale values - `x = x`, `y = z`, `z = y`
+
+* Applying an image to `<a-plane>`
+``` HTML
+<a-assets>
+  <img src="img/grass_1.png" id="h1">
+</a-assets>
+ <a-plane material="color: #53C532" scale="10 10 1" rotation="-90 0 0" src="#h1"></a-plane>
+```
+
+* Adding a 360° image within the `<a-assets>` and `<a-scene>` tag to represent the sky -->
+
+```HTML
+<a-assets>
+      <img src="img/cloud_3.jpg" id="h2">
+    </a-assets>
+<a-sky>
+src="#h2"
+</a-sky>
+```
+* Included the `radius` attribute to the `<a-sky>` and  tag
+
+```HTML
+<a-scene>
+<a-sky radius="100">
+src="#h2"
+</a-sky>
+</a-scene>
+```
+
+NOTE:  The `radius` attribute is similar to the `border-radius` in CSS. Both of the `radius` makes an item more round.
+
+Goal for next time: Learn more about primitives and continue to explore attributes
 <!--X/X/X:
 * Text
 
