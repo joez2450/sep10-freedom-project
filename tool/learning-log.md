@@ -70,7 +70,7 @@ NOTE: Any rotation on primitives directly affects the direction in which the sca
 
       * Scale values - `x = x`, `y = z`, `z = y`
 
-* Applying an image to `<a-plane>`
+* Applying an image to `<a-plane>`, `<a-box>`, `<a-sphere>`, and `<a-cylinder>`
 ``` HTML
 <a-assets>
   <img src="img/grass_1.png" id="h1">
@@ -82,18 +82,24 @@ NOTE: Any rotation on primitives directly affects the direction in which the sca
 
 ```HTML
 <a-assets>
+      <img src="img/grass_1.png" id="h1">
       <img src="img/cloud_3.jpg" id="h2">
+      <img src="img/8ball2.jpg" id="h3">
+      <img src="img/gradient.avif" id="h4">
+      <img src="img/steel.jpg" id="h5">
     </a-assets>
-<a-sky>
-src="#h2"
-</a-sky>
+<a-scene>
+    <a-sky src="#h2"></a-sky>
+    <a-box src="#h4" position="-30 1 -10" scale="10 10 10"></a-box>
+    <a-sphere src="#h3" position="-5 1 -5" scale="4 4 4"><a-sphere>
+    <a-cylinder src="#h5" position="8 -1 -5" scale="1.5 4 2"></a-cylinder>
+</a-scene>
 ```
 * Included the `radius` attribute to the `<a-sky>` and  tag
 
 ```HTML
 <a-scene>
-<a-sky radius="100">
-src="#h2"
+<a-sky radius="100" src="#h2">
 </a-sky>
 </a-scene>
 ```
