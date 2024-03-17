@@ -145,7 +145,7 @@ Goal: To continue enhancing my knowledge of A-Frame
 * NOTE #2: The `repeat` attribute purpose is in its name. The attribute "repeats" a texture based on the X and Y axis as in the format (x y) - must be inside `material`
 
   * The `normal-map` and `normal-map-repeat` attributes combined with `repeat` is mainly served to make realistic grounds - high detail.
-* Using the `metalness` attribute on my `a-sphere` primitives
+* Utilized the `metalness` attribute on my `a-sphere` primitives
 
 ``` HTML
  <a-sphere src="#h3" position="10 2 0" scale="2 2 2" metalness="1"></a-sphere>
@@ -153,6 +153,12 @@ Goal: To continue enhancing my knowledge of A-Frame
  <a-sphere src="#h7" position="-10 2 0" scale="2 2 2" metalness="1"></a-sphere>
 ```
 * NOTE #3: The `metalness` attribute gives a tint to the spheres as the value increases. This is to make the primitives look more of a metal texture as the function is stated by its name.
+* I also tried out the `fog` attribute on `<a-scene>` using this code:
+``` HTML
+<a-scene fog="true"></a-scene>
+```
+* NOTE #4: `fog` applies smoke to a given scene.
+  * The attribute can also be adjusted with distance, controlling the visibility.
 * Next steps:
   * Continue to watch the [A-Frame](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) playlist as I move to focus on other concepts (possibly video and sound)
   * Keep up with my tinkering process
