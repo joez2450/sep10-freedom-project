@@ -116,7 +116,7 @@ Goal: To continue enhancing my knowledge of A-Frame
 
 * Look over A-Frame documentations for attributes of primitives.
   * Continue to watch [A-Frame playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for 15 minutes
-* Adding `<a-entity>`- with attributes - and `<a-camera>` to my existing scene
+* Added `<a-entity>` - with attributes - and `<a-camera>` to my existing scene
   *  I also added atrributes to the `<a-entity>` tag, specifically `position` and `camera-active`
 ```HTML
 <a-entity position= "0 0 10" camera="active: true">
@@ -124,7 +124,7 @@ Goal: To continue enhancing my knowledge of A-Frame
     </a-entity>
 ```
 * NOTE: `<a-entity>` is similar to a `div` - any element within the tag when there is a class or attribute applied will also be affected
-* Tested the `repeat`, `normal-map`, and `normal-map-repeat` attribute toward my `<a-plane>` tag
+* Tested the `repeat`, `normal-map`, and `normal-map-repeat` attribute toward my `<a-plane>` tag:
 ```HTML
 <a-assets>
 <img src="img/wooden-floor.jpg" id="h8">
@@ -145,7 +145,7 @@ Goal: To continue enhancing my knowledge of A-Frame
 * NOTE #2: The `repeat` attribute purpose is in its name. The attribute "repeats" a texture based on the X and Y axis as in the format (x y) - must be inside `material`
 
   * The `normal-map` and `normal-map-repeat` attributes combined with `repeat` is mainly served to make realistic grounds - high detail.
-* Utilized the `metalness` attribute on my `a-sphere` primitives
+* Utilized the `metalness` attribute on my `a-sphere` primitives:
 
 ``` HTML
  <a-sphere src="#h3" position="10 2 0" scale="2 2 2" metalness="1"></a-sphere>
@@ -162,6 +162,52 @@ Goal: To continue enhancing my knowledge of A-Frame
 * Next steps:
   * Continue to watch the [A-Frame](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) playlist as I move to focus on other concepts (possibly video and sound)
   * Keep up with my tinkering process
+
+---
+**3/22/24**
+
+Aim: Practice A-Frame and learn more about implementing video and audios
+
+* Continue to watch [A-Frame](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) playlist, primarily focusing on the video and audio videos
+* Imported a video file through GitHub and inserted in `<a-assets>`
+  * Added an `autoplay loop` attribute and set it to "true", making the visual repeat on its own
+
+```HTML
+<a-assets>
+<video id="hi" src="video/3d-monochrome-abstract-art-video-animation-featuring-a-surreal-chrome-sphere-c-SBV-348789757-preview.mp4" autoplay loop="true"></video>
+</a-assets>
+```
+* Created a video in my `<a-scene>` using the `<a-video>` tag and adjusted the size following with position using the `width`, `height`, and `position` attribute:
+
+``` HTML
+ <a-video src="#hi" width="8" height="4.5" position="0 10 0">
+    </a-video>
+```
+* Subsequently, I added another video following the same process. I aligned the two panels side-by-side.
+  * NOTE #1: JavaScript can also be applied for videos if you choose to use play and pause buttons.
+``` HTML
+<a-assets>
+<video id="hi2" src="video/shapes-moving-synergy-texture-abstract-animated-background-with-moving-geometr-SBV-348787527-preview.mp4" autoplay loop="true"></video>
+</a-assets>
+```
+* I tested out the audio portion of A-Frame by uploading sound files first
+  * I used this line of code to make an audio functionable:
+
+``` HTML
+ <a-sound src="src: url(video/sound1.wav)" autoplay="true" loop="true" position="0 2 5"></a-sound>
+
+```
+* `src` was the most promienent tag for this moment. The label allowed my sound file to exist
+   * Included `loop="true"` to make the sound repeat itself, similar to my videos
+* NOTE #2: Audio can be used in a diverse amount of ways. Primitives can also use the tag to display a sound when clicked on.
+* NOTE #3: Any audio can be adjusted using the `volume` and `on` attributes
+
+Goal for next time:
+
+* Continue to tinker and enhance my knowledge of A-Frame
+* Introduction to new topics (likely collisions and physics)
+
+
 
 
 <!--
