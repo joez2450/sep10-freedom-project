@@ -166,7 +166,7 @@ Goal: To continue enhancing my knowledge of A-Frame
 ---
 **3/22/24**
 
-Aim: Practice A-Frame and learn more about implementing video and audios
+Aim: Practice more A-Frame conceptions, specifically learning about implementing video and audios
 
 * Continue to watch [A-Frame](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) playlist, primarily focusing on the video and audio videos
 * Imported a video file through GitHub and inserted in `<a-assets>`
