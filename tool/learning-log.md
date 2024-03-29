@@ -53,7 +53,7 @@ NOTE: `<a-entity>` overrides `<a-sky>` - for example, when both tags are used wi
 **3/3/24**
 
 Goal: To learn more about A-Frame attributes and general concepts
-* Continue to watch [A-Frame tutorial playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for 15 minutes
+* Continued to watch [A-Frame tutorial playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for 15 minutes
 * Added a green platform (ground component) to my existing A-Frame scene
 
    ```HTML
@@ -115,7 +115,7 @@ Goal for next time: Learn more about primitives and continue to explore attribut
 Goal: To continue enhancing my knowledge of A-Frame
 
 * Look over A-Frame documentations for attributes of primitives.
-  * Continue to watch [A-Frame playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for 15 minutes
+  * Continued to watch [A-Frame playlist](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) for 15 minutes
 * Added `<a-entity>` - with attributes - and `<a-camera>` to my existing scene
   *  I also added atrributes to the `<a-entity>` tag, specifically `position` and `camera-active`
 ```HTML
@@ -206,10 +206,51 @@ Goal for next time:
 
 * Continue to tinker and enhance my knowledge of A-Frame
 * Introduction to new topics (likely collisions and physics)
+---
+**3/25/24**
 
+Aim: To focus on the Physics and Collisions topic of A-Frame
 
+* Watched a [Physics and Collisions](https://www.youtube.com/watch?v=CsXNfoXEJ2w) lesson video
+* Looked over the [Physics system page](https://github.com/c-frame/aframe-physics-system) on GitHub provided by A-Frame
+* Imported extra scripts that allows for a physics package to be installed
 
+``` HTML
+<script src="https://cdn.jsdelivr.net/gh/MozillaReality/ammo.js@8bbc0ea/builds/ammo.wasm.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-physics-system@v4.2.2/dist/aframe-physics-system.js"></script>
+```
 
+* The first script in the code snippet is the `ammo engine` - it includes JavaScript that supports physics.
+* Classified the engine I am using for physics and collisions in my `a-scene` tag using this code:
+  * Additionally added `debug` to `<a-scene>`
+``` HTML
+<a-scene physics="driver: ammo; debug:true;"></a-scene>
+```
+* NOTE #1: `debug` creates a wireframe for all entities
+* Started testing the features out on a few primitives: three `<a-sphere>`. I applied various classes in the process:
+
+```HTML
+<a-sphere src="#h3" position="10 5 0" scale="2 2 2" ammo-body="type: dynamic;" ammo-shape="type:sphere">
+    </a-sphere>
+    <a-sphere src="#h6" position="0 5 0" scale="2 2 2" ammo-body="type: dynamic;" ammo-shape="type:sphere"></a-sphere>
+    <a-sphere src="#h7" position="-10 5 0" scale="2 2 2" ammo-body="type: static;" ammo-shape="type:sphere"></a-sphere>
+```
+* NOTE #1: A primitive with the `dynamic` class will typically move during a collision, and is usually affected by gravity.
+  * NOTE #2: A entity with the `static` class will not move when another object strikes, nor is it affected by gravity.
+* Added the `static` class towards my `<a-plane>` so the sphere primitives would not fall through the floor and instead stop on the platform.
+
+  * This code helped with the process:
+``` HTML
+<a-plane ammo-body="type: static" ammo-shape="type:box"></a-plane>
+```
+* Lastly, included the `restitution` class to the `<a-scene>` tag to increase bounciness of the `<a-sphere>` primitives
+```HTML
+<a-scene physics="driver: ammo; restitution: 1">
+```
+
+For next time:
+- Learn to import 3D models into A-Frame
+- Continue to tinker along with videos
 <!--
 
 X/X/X:
