@@ -166,7 +166,7 @@ Goal: To continue enhancing my knowledge of A-Frame
 ---
 **3/22/24**
 
-Aim: Practice A-Frame and learn more about implementing video and audios
+Aim: Practice more A-Frame conceptions, specifically learning about implementing video and audios
 
 * Continue to watch [A-Frame](https://www.youtube.com/playlist?list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV) playlist, primarily focusing on the video and audio videos
 * Imported a video file through GitHub and inserted in `<a-assets>`
@@ -197,10 +197,10 @@ Aim: Practice A-Frame and learn more about implementing video and audios
  <a-sound src="src: url(video/sound1.wav)" autoplay="true" loop="true" position="0 2 5"></a-sound>
 
 ```
-* `src` was the most promienent tag for this moment. The label allowed my sound file to exist
+* `src` was the most promienent tag for this moment. The label allowed my sound file to exist.
    * Included `loop="true"` to make the sound repeat itself, similar to my videos
 * NOTE #2: Audio can be used in a diverse amount of ways. Primitives can also use the tag to display a sound when clicked on.
-* NOTE #3: Any audio can be adjusted using the `volume` and `on` attributes
+* NOTE #3: Any audio can be adjusted using the `volume` and `on` attributes.
 
 Goal for next time:
 
