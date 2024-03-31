@@ -235,18 +235,19 @@ Aim: To focus on the Physics and Collisions topic of A-Frame
     <a-sphere src="#h6" position="0 5 0" scale="2 2 2" ammo-body="type: dynamic;" ammo-shape="type:sphere"></a-sphere>
     <a-sphere src="#h7" position="-10 5 0" scale="2 2 2" ammo-body="type: static;" ammo-shape="type:sphere"></a-sphere>
 ```
-* NOTE #1: A primitive with the `dynamic` class will typically move during a collision, and is usually affected by gravity.
-  * NOTE #2: A entity with the `static` class will not move when another object strikes, nor is it affected by gravity.
+* NOTE #2: A primitive with the `dynamic` class will typically move during a collision, and is usually affected by gravity.
+  * NOTE #3: A entity with the `static` class will not move when another object strikes, nor is it affected by gravity.
 * Added the `static` class towards my `<a-plane>` so the sphere primitives would not fall through the floor and instead stop on the platform.
 
   * This code helped with the process:
 ``` HTML
 <a-plane ammo-body="type: static" ammo-shape="type:box"></a-plane>
 ```
-* Lastly, included the `restitution` class to the `<a-scene>` tag to increase bounciness of the `<a-sphere>` primitives
+* Lastly, included the `restitution` class to the `<a-scene>` tag to increase bounciness of the `<a-sphere>` primitives:
 ```HTML
 <a-scene physics="driver: ammo; restitution: 1">
 ```
+* NOTE #4: The `restitution` class must be set to a value above 0 to work. As the number increases higher, the primitive will bounce more. 
 
 For next time:
 - Learn to import 3D models into A-Frame
