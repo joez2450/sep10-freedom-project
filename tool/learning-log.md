@@ -247,11 +247,51 @@ Aim: To focus on the Physics and Collisions topic of A-Frame
 ```HTML
 <a-scene physics="driver: ammo; restitution: 1">
 ```
-* NOTE #4: The `restitution` class must be set to a value above 0 to work. As the number increases higher, the primitive will bounce more. 
+* NOTE #4: The `restitution` class must be set to a value above 0 to work. As the number increases higher, the primitive will bounce more.
 
 For next time:
 - Learn to import 3D models into A-Frame
 - Continue to tinker along with videos
+
+---
+
+**4/1/24**
+
+Aim: To learn how to import 3D models
+
+* Watched two guides: [Loading and Displaying 3D Models](https://www.youtube.com/watch?v=cS8uGfd_oG8&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=13&t=62s) and [Upload 3D Models from Sketchfab to A-Frame](https://www.youtube.com/watch?v=mPiFPv9WzOw&t=196s)
+* Searched for models to import on [SketchFab](https://sketchfab.com/), a website mentioned on the A-Frame website
+  * I found this structure that was interesting: [Isso, The town on Capital Isle](https://sketchfab.com/3d-models/issum-the-town-on-capital-isle-e433923a64d549fabb2d30635d643ab6) by Olee
+* Downloaded a `glb` file for the model I found interesting
+  * NOTE #1: A `glb` file is one folder compressed with all information needed to code a singular model. This is similar to a zip file.
+* Used [Glitch](https://glitch.com/~aframe) to upload my `glb` file into an asset, generating a CDN link as a result.
+  * The CDN generated:
+```
+https://cdn.glitch.global/dc61be5e-ba3d-456f-b77d-84a20b34a952/issum_the_town_on_capital_isle.glb?v=1712191797906
+```
+* Created a new file and added the A-Frame CDN link as well as `a-assets` tags inside my `a-scene`
+* Used the following code in my IDE as the first step to import 3D structures:
+
+``` HTML
+<a-scene>
+        <a-assets>
+            <a-asset-item id="tower" response-type="arraybuffer" src="https://cdn.glitch.global/dc61be5e-ba3d-456f-b77d-84a20b34a952/issum_the_town_on_capital_isle.glb?v=1712191797906"></a-asset-item>
+          </a-assets>
+</a-scene>
+```
+* Utilized this code in my `<a-scene>` afterward to make the 3D model appear:
+
+``` HTML
+ <a-entity gltf-model="#tower" position="0 -10 0"></a-entity>
+```
+* I went into the A-Frame inspector (CTL + ALT + I) to edit the model without commiting any changes
+  * NOTE #2: The inspector built into A-Frame is similar to the Inspect Element tool as both of them can create temporary changes and allows for a brief overview of the codes (useful for debugging).
+  * Positioned out the model to `0 -10 0 `
+* Added an `<a-camera>` primitive with the attributes, `wasd-controls= "acceleration:35; fly: true;"`, to speed up the movement for users given the general large size of models
+
+Summary:
+I learned how to import 3D models into A-Frame using both Glitch and Sketchfab as a tool. In the future, I will create my own models and put it through A-Frame using the same method.
+
 <!--
 
 X/X/X:
