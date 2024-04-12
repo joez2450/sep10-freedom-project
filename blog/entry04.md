@@ -49,7 +49,7 @@ $height: 50px;
 
 The assignment above required me to make the first two paragraphs equal to `50px` in terms of height. I was given information about the concept behind variables, specifically as in the syntax `$name: value;`. To do this task, I created a new variable, `$height`, and defined it with `50px`. After that, I checked the HTML portion of the files and found that the two paragraphs are assigned the classes `p-border` and `p-background`, so I went back to CSS and inserted height to both of them, defining the variable in the process. I executed the task, and it was completed.
 
-My overall experiment with the SASS assignments left me with a mixed feeling about the tool. **I wasn't particularly that interested** when learning the resource as I was tinkering, so I didn't dive any deeper. This thought helped shape my list, as I knew SASS wasn't going to be the top choice for me.
+My overall experiment with the SASS assignments left me with a mixed feeling about the tool. **I wasn't particularly that interested** when learning the resource through tinkering processes, so I didn't dive any deeper. This thought helped shape my list, as I knew SASS wasn't going to be the top choice for me.
 
 Moving forward with the decision, the next tool I tested out was [Skeleton](http://getskeleton.com/). Beginning with my Skeleton tinkering process, I looked closely at the webpage provided by the developers. This time when I observed over the tool page, however, I noticed that there wasn't a side-by-side playground for a tutorial. Skeleton only lists its CSS elements in brief detail and a download button on its page.
 
