@@ -55,7 +55,7 @@ For the physics component, I made a new file to give a new scene. I imported the
 </a-scene>
 ```
 
-After I learned the topics that was desired, I also tested out other features. I recorded all of the experimentations in my [learning log](../tool/learning-log.md) as a way keep my mind refreshed.
+After I learned the topics that was desired, I also tested out other features. I recorded all of the experimentations in my [learning log](../tool/learning-log.md) as a way keep my mind refreshed within the future.
 
 
 ### EDP
