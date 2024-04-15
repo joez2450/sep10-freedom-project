@@ -65,7 +65,7 @@ As of now, I am inbetween stages four and five of the Engineering Design Process
 Tinkering with A-Frame taught me skills. The three major ones included:
 
 * Organization - When I was learning A-Frame, many notes had to be taken. In order to make the most out of them, I organized the details in my learning log to refer back in the future.
-* Attention to detail - While coding specific A-Frame scenes, there were missing closing tags for some lines of code. This caused issues when I ran the scene on various occasions. To fix these problems, I had to debug, and pay close attention to every line.
+* Attention to detail - While coding specific A-Frame scenes, there were missing closing tags for some lines of code. This caused issues when I ran the scene on various occasions. To fix these problems, I had to debug, and pay close attention to every lines of syntax.
 * Management - As I was introduced to A-Frame, there were many topics to learn. To be efficient, I learned a new topic frequently and jotted down any significant information. This allowed me to make the most out of my learning experience.
 
 
