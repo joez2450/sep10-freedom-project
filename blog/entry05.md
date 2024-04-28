@@ -2,7 +2,7 @@
 ##### 4/8/24
 
 ### Update/Context
-Since the last blog, I have achieved a margin of accomplishments in my Freedom Project. I tinkered with my selection of tools (Skeleton, A-Frame, and SASS) in various files by coding example templates. Based on my experimentations, I ended up choosing A-Frame as my permanent tool. Upon the decision, I had to familiarize myself of the engine.
+Since the last blog, I have achieved a margin of accomplishments in my Freedom Project. I specifically tinkered with my selection of tools (Skeleton, A-Frame, and SASS) in various files by coding example templates. Based on my experimentations, I ended up choosing A-Frame as my permanent tool. Upon the decision, I had to familiarize myself of the engine.
 
 ### Tinkering
 Beginning with my A-Frame tinkering process, I looked over the documentation provided by the software company. As I analyzed all of the concepts, the three main topics that interested me were importing 3D Models and Images, Physics and Collisions, and Video. But before I tested reached the subjects, I tested additional primitives and components for more context of how the tool functioned.
@@ -55,7 +55,7 @@ For the physics component, I made a new file to give a new scene. I imported the
 </a-scene>
 ```
 
-After I learned the topics that was desired, I also tested out other features. I recorded all of the experimentations in my [learning log](../tool/learning-log.md) as a way keep my mind refreshed.
+After I learned the topics that was desired, I also tested out other features. I recorded all of the experimentations in my [learning log](../tool/learning-log.md) as a way of note-taking to keep my mind refreshed within the future.
 
 
 ### EDP
@@ -65,7 +65,7 @@ As of now, I am inbetween stages four and five of the Engineering Design Process
 Tinkering with A-Frame taught me skills. The three major ones included:
 
 * Organization - When I was learning A-Frame, many notes had to be taken. In order to make the most out of them, I organized the details in my learning log to refer back in the future.
-* Attention to detail - While coding specific A-Frame scenes, there were missing closing tags for some lines of code. This caused issues when I ran the scene on various occasions. To fix these problems, I had to debug, and pay close attention to every line.
+* Attention to detail - While coding specific A-Frame scenes, there were missing closing tags for some lines of code. This caused issues when I ran the scene on various occasions. To fix these problems, I had to debug, and pay close attention to every lines of syntax.
 * Management - As I was introduced to A-Frame, there were many topics to learn. To be efficient, I learned a new topic frequently and jotted down any significant information. This allowed me to make the most out of my learning experience.
 
 
