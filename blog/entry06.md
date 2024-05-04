@@ -54,8 +54,14 @@ After the cards and A-Frame embedded were completed, Jimmy and I both focused on
 ### EDP
 In the Engineering Design Process, I am at the fifth stage: Create a Prototype. I have already designed a viable webpage with my peer for the Freedom Project. In the future, I will move onto the sixth and seventh stages, where further improvements and testing are made. These specifically include the responsiveness of the website, as some content are in undesirable spots within different screen sizes.
 
+### Skills
+I learned two primary skills with my partner while constructing our first website prototype. These include:
 
+#### Organization
+Throughout the course of the coding process, I learned to be organized with my peer. Given there were many lines of codes, various BootStrap components imported, and constant flows of merging, it was easy to get lost in the HTML file. We stayed arranged by using the comment (`<!-->`) feature and adding names within them.
 
+#### Creative-Thinking
+As my peer and I were coding especially in the decoration process, we needed to find a color scheme that was fit towards our webpage. We struggled to find one that was good-looking with our content. However, after countless attempts, Jimmy eventually brainstormed to use a brigther layout.
 
 
 [Previous](entry05.md) | [Next](entry07.md)
