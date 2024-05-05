@@ -14,7 +14,7 @@ A challenge, however, that came along was the size proportions. Since some cards
 ``` HTML
  style="width: 30rem;">
 ```
-As the cards were created, I moved onto the background image. I wanted a visual regarding travel such as a destination to be the first sight on the website. To do this, I went into the CSS file and created a new class called `background` and added properties such as `background-image`, `background-repeat`, `background-size`, `height`, and `width`. I added values to all of the CSS properties, inputting the URL towards the `background-image`, a value of cover to `background-size`, no-repeat to `background-repeat`, and set the `height` to 750px with the `width` being auto. I also added various `div` to display the CSS. The image was completed with the codes. A visual of the code:
+As the cards were created, I moved onto the background image. I wanted a visual regarding travel such as a destination to be the first sight on the website. To do this, I went into the CSS file and created a new class called `background` and added properties such as `background-image`, `background-repeat`, `background-size`, `height`, and `width`. I added values to all of the CSS properties, inputting the URL towards the `background-image`, a value of cover to `background-size`, no-repeat to `background-repeat`, and set the `height` to 750px with the `width` being auto. I also added various `div` to display the CSS. The image was completed with the codes. A look of the code:
 
 ```CSS & HTML
   <section>
@@ -48,27 +48,24 @@ Reaching the A-Frame section, my peer and I desired to make a VR-scene directly 
 <iframe src="model.html" title="Visual"></iframe>
 </section>
  ```
-After the cards and A-Frame embedded were completed, Jimmy and I both focused on decorating the website. Choosing a color scheme was difficult, however, my peer eventually used a linear gradient of two colors: white and light brown. In addition, I added more `margin` and `padding` to specific elements for proper spacing and a better visual of the content. At last, we finished designing a MVP.
+After the cards and A-Frame embedded were completed, Jimmy and I both focused on decorating the website. Choosing a color scheme was difficult, however, my peer eventually used a linear gradient of two colors: white and light brown. In addition, I added more `margin` and `padding` to specific elements for proper spacing and a better visual of the content, and change the fonts of the text to "PTSerif". At last, we finished designing a MVP.
 
 
 ### EDP
-In the Engineering Design Process, I am at the fifth stage: Create a Prototype. I have already designed a viable webpage with my peer for the Freedom Project. In the future, I will move onto the sixth and seventh stages, where further improvements and testing are made. These specifically include the responsiveness of the website, as some content are in undesirable spots within different screen sizes.
+In the Engineering Design Process, I completed the fifth stage: Create a Prototype. I have already designed a viable webpage with my peer for the Freedom Project. As of now, I am currently on the sixth and seventh stages: Test and Evaluate the prototype and Improve as needed. I will further conduct testing and add new changes to make the website better. These specifically include the responsiveness of the website, as some content are still in undesirable spots within different screen sizes.
 
 ### Skills
-I learned two primary skills with my partner while constructing our first website prototype. These include:
+I improved on two primary skills with my partner while constructing our first website prototype. These include:
 
 #### Organization
-Throughout the course of the coding process, I learned to be organized with my peer. Given there were many lines of codes, various BootStrap components imported, and constant flows of merging, it was easy to get lost in the HTML file. We stayed arranged by using the comment (`<!-->`) feature and adding names within them.
+
+Throughout the course of the coding process, I learned to be organized with my peer. Given there were many lines of codes, various BootStrap components imported, and constant flows of merging, it was easy to get lost in the HTML file. We stayed arranged by using the comment (`<!-->`) feature and adding names within them. This allowed us to minimize confusion as we were fixing specific codes.
 
 #### Creative-Thinking
-As my peer and I were coding especially in the decoration process, we needed to find a color scheme that was fit towards our webpage. We struggled to find one that was good-looking with our content. However, after countless attempts, Jimmy eventually brainstormed to use a brigther layout.
+As my peer and I were coding especially in the decoration process, we needed to find a color scheme that was fit towards our webpage. We struggled to find one that was good-looking with our content. However, after countless attempts, Jimmy eventually brainstormed to use a brigther layout. This also gave me the idea to use fonts and further change the website.
 
 
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
 
-
-
-<!--
-accumulated my initial move was to delete the `style` inline that placed a set-width.>
