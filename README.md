@@ -8,7 +8,7 @@ For my project, I chose the topic of **Travel**.
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-Frame** in order to help me make by website.
 
-Note: Although I studied individually, I worked alongside Jimmy during this project, making it a co-op. Jimmy also learned his tools seperately as well, but when in the constructing process, we cooperated with each other, and merged our work.
+NOTE: Although I studied individually, I worked alongside Jimmy during this project, making it a co-op. Jimmy also learned his tools seperately as well, but when in the constructing process, we cooperated with each other, and merged our work.
 
 ## Links
 
@@ -18,9 +18,11 @@ Note: Although I studied individually, I worked alongside Jimmy during this proj
 
 ## Implications
 ##### PROS
-*
+* Allows users to discover environment of travel and the system that surrounds it
+* Gives people the opportunity to educate themselves about the possiblites of global travel with technology, whether they want to explore new cultures with social relations or individually
+* Users can learn to prepare for future trips with the displayed apps in the website
 ##### CONS
-*
+* Has limited view of the travel industry - the website only covers the most significant portions
 
 
 ## Blog
