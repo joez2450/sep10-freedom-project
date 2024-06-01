@@ -30,7 +30,7 @@ As for the Engineering Design Process, I am on the eighth and last stage: Commun
 ### Skills
 As I delivered my presentation alongside my peer in both the class and the Expo-Showcase, I learned to enhance my skills of organization, management, and strategicness as they were my main takeaways.
 
-I had to become more strategic and decisive when making presentations and the format in which it is lay out. Additionally, I began to be more organized along with managing the circumstances I am in to minizing any conflicts that may emerge.
+I had to become more strategic and decisive when making presentations and the format in which it is lay out. Additionally, I began to be more organized along with managing the circumstances present to minimize any conflicts that may emerge and further disrupt progress.
 
 
 
