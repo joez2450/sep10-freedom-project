@@ -1,24 +1,26 @@
 # SEP10 Freedom Project
-by **X**
+By Joe Zheng
 
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-For my project, I chose the topic of **X**. 
+For my project, I chose the topic of **Travel**.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-Frame** in order to help me make by website.
+
+Note: Although I studied individually, I worked alongside Jimmy during this project, making it a co-op. Jimmy also learned his tools seperately as well, but when in the constructing process, we cooperated with each other, and merged our work.
 
 ## Links
 
-[Product]()
+[Product](https://jimmyl6413.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1y_WxQUBVwVSWlmgBhd8s24UOm_IPpfGh-H2BJjkCRk4/edit)
 
 ## Implications
 ##### PROS
-* 
+*
 ##### CONS
-* 
+*
 
 
 ## Blog
@@ -31,6 +33,4 @@ Below you will find my blog about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
+
