@@ -3,7 +3,7 @@
 
 ### Update/Context
 
-Since the last blog, I created presentation slides with my peer, Jimmy, to demonstrate to the class the overall process of my Freedom Project. I further presented my webpage, which was in the Beyond MVP stage, to the class. By doing so, I learned takeaways from my experience.
+Since the last blog, I created presentation slides with my peer, Jimmy, to demonstrate to the class and the Expo the overall process of creating my Freedom Project. I further presented my webpage, which was in the Beyond MVP stage. By doing so, I learned takeaways from my experience.
 
 ### Takeaways
 
