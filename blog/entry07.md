@@ -3,7 +3,7 @@
 
 ### Update/Context
 
-Since the last blog, I created presentation slides with my peer, Jimmy, to demonstrate to the class and the Expo the overall process of creating my Freedom Project. I further presented my webpage, which was in the Beyond MVP stage. By doing so, I learned takeaways from my experience.
+Since the last blog, I created presentation slides with my peer, Jimmy, to demonstrate to the class and at the Expo showcase the overall process of creating my Freedom Project. I further presented my webpage, which was in the Beyond MVP stage. By doing so, I learned takeaways from my experiences.
 
 ### Takeaways
 
@@ -30,7 +30,7 @@ As for the Engineering Design Process, I am on the eighth and last stage: Commun
 
 
 ### Skills
-As I delivered my presentation alongside my peer in both the class and the Expo-Showcase, I learned to enhance three skills: organization, management, and strategicness.
+As I delivered my presentation alongside my peer in both the class and the Expo showcase, I learned to enhance three skills: organization, management, and strategicness.
 
 These were all of my takeaways, so it fed me with lessons to improve for the future. I had to become more strategic and decisive when making presentations and the format in which it is lay out to leave my audience with a more positive perception. Additionally, I began to be more organized along with managing the circumstances present to minimize any conflicts that may emerge and further disrupt progress.
 
