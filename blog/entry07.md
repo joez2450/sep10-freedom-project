@@ -11,14 +11,14 @@ Since the last blog, I created presentation slides with my peer, Jimmy, to demon
 
 * Management/Coordination
 
-During the presentation duration time, many people moved around the cafeteria and looked at various web pages. At some point, there were multiple visitors at my designated table who wished to view projects. One after the other, more people came. Jimmy and I were overwhelmed since various people wanted demonstrations in a short amount of time. As a result, my peer and I learned to have everything set up after each presentation, so we could be prepared as soon as possible and reduce stress. By also improving our coordination, we were ready for presentations in which the audience is comprised of teachers and principals.
+During the presentation duration time, many people moved around the cafeteria and looked at various web pages. At some point, there were multiple visitors at my designated table who wished to view projects. One after the other, more people came. Jimmy and I were overwhelmed since a variety of individuals wanted demonstrations all in a short amount of time. As a result, my peer and I learned to have everything set up after each presentation, so we could be prepared as soon as possible and reduce stress. By also improving our coordination, we were ready for presentations in which the audience is comprised of teachers and principals.
 
 
 #### In-class Presentation
 
 * Organization
 
-Given that I was working with a partner for my Freedom Project, it was easy to get lost. Having two people work on a singular task placed us in a spot where not every action was known. Jimmy and I would usually take different paths, especially during our learning process. Organization was a necessary skill to have. My peer and I learned to be neat with our notes to make life easier when it was time to create a product. Indeed, during our construction process, we communicated to develop a prototype, and it was not as difficult, since everything was already arranged for us.
+Given that I was working with a partner for my Freedom Project, it was easy to get lost. Having two people work on a singular task placed us in a spot where not every action was known. Jimmy and I would usually take different paths, especially during our learning process. Organization was a necessary skill to have. My peer and I learned to be neat with our [notes](https://docs.google.com/document/d/1vFsXyDSkz84rdMw34Ic3YQGBfYOddpp37aHQi_dFlO4/edit) to make life easier when it was time to create a product. Indeed, during our construction process, we communicated to develop a prototype, and it was not as difficult, since everything was already arranged for us.
 
 * Strategic Formatting
 
@@ -26,7 +26,7 @@ As for my [SEP Presentation slides](https://docs.google.com/presentation/d/1y_Wx
 
 ### EDP
 
-As for the Engineering Design Process, I am on the eighth and last stage: Communicating the results. I have already designed an MVP and added additional features to further improve my [webpage](https://jimmyl6413.github.io/sep10-freedom-project/). Now, I reached the stage to present and share my year-long work that I collaborated with Jimmy to others.
+As for the Engineering Design Process, I am on the eighth and last stage: Communicating the results. I have already designed an MVP and added additional features to further improve my [webpage](https://jimmyl6413.github.io/sep10-freedom-project/). Now, I reached the phase to present and share my year-long work that I collaborated with Jimmy to others.
 
 
 ### Skills
