@@ -18,9 +18,9 @@ NOTE: Although I studied individually, I worked alongside Jimmy during this proj
 
 ## Implications
 ##### PROS
-* Allows users to discover environment of travel and the system that surrounds it
-* Gives people the opportunity to educate themselves about the possiblites of global travel with technology, whether they want to explore new cultures with social relations or individually
-* Users can learn to prepare for future trips with the displayed apps in the website, particularly through the topic of business (price trends, budgeting)
+* Allows users to discover an environment of travel and the system that surrounds it
+* People have the opportunity to educate themselves about the possibilities of global travel with technology, whether they want to explore new cultures with social relations or individually
+* Users can learn to prepare for future trips with the displayed apps on the website, particularly through the topic of business (price trends, budgeting)
 * Individuals can feel an exposure to travel inventions that may emerge in the future with current advancements in society
 ##### CONS
 * Has limited view of the travel industry - the website only covers the most significant portions
